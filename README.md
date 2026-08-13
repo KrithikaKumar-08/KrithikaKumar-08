@@ -1,6 +1,8 @@
 ## Krithika's repo
 This is my first repository!
+<br>
 Author - Krithika Kumar
+<br>
 I'm currently learning Python, AI and Git!
 
 <!--
