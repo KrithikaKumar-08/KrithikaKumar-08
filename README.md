@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+This is my first repository!
+Author - Krithika Kumar
+I'm currently learning Python, AI and Git!
 
 <!--
 **KrithikaKumar-08/KrithikaKumar-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
