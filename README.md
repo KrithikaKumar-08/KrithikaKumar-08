@@ -1,4 +1,4 @@
-## 
+## Krithika's repo
 This is my first repository!
 Author - Krithika Kumar
 I'm currently learning Python, AI and Git!
